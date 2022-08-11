@@ -2,3 +2,7 @@
 
 A new Flutter project.
 
+```
+dev_dependencies:
+  gsheets:
+  ```
